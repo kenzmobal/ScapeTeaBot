@@ -41,5 +41,12 @@ pybase64
 pySmartDL
 validators
 youtube_dl
-youtube-search-python
 gtts
+PyYAML>=5.3.1
+redis
+html2text
+pythonping
+html_telegraph_poster
+pytube
+youtube-search-python
+ffmpeg
