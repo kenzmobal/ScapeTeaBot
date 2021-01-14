@@ -1,4 +1,4 @@
 @echo off
-TITLE AstrakoBot
-:: Enables virtual env mode and then starts AstrakoBot
-env\scripts\activate.bat && py -m AstrakoBot
+TITLE ScapeTeaBot
+:: Enables virtual env mode and then starts ScapeTeaBot
+env\scripts\activate.bat && py -m ScapeTeaBot
